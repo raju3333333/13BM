@@ -1,1 +1,2 @@
 This is my new git commit
+This is my second commit
